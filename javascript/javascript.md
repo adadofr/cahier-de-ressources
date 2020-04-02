@@ -2,6 +2,7 @@
 
 # ES6 +
 Rappel des spécificités de ES6+ pour JavaScript.
+*[Cheat Seet](https://htmlcheatsheet.com/js/)
 
 ### Les Classes
 La création de classe permet de simplement créer de nouvelles instances (= nouvel Objet) à partir de cette classe et grâce à son constructor. On peut créer aussi une nouvelle classe à partir de cette classe, qui contient tous les attributs et méthodes de la classe parente. On peut lui définir de nouvelles méthodes ou nouveaux attributs ou surcharger des méthodes existantes.
